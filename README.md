@@ -20,3 +20,8 @@ exp_type- the type of expenses associated with the transaction.
 gender- the gender of the card holder.
 
 amount- the amount of the transaction.
+
+Skills Used
+------------------
+---------------------
+Window functions, aggregated functions, date functions, commom table expressions, subquery, group by
