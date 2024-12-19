@@ -92,7 +92,7 @@ select *, (female_spends/total_spends*100) as 'female_contribution'
 from cte
 order by female_contribution;
 
--- altenative --
+-- alternative --
 with cte as (
 select exp_type, SUM(amount) as 'total_spends'
 from credit_card_transactions
