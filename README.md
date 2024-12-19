@@ -10,8 +10,13 @@ Dataset
 ---------
 credit_card_transaction.csv
 city- the city in which the transaction took place.
+
 transaction_date- the date of the transaction.
+
 card_type- the type of credit card used for the transaction.
+
 exp_type- the type of expenses associated with the transaction.
+
 gender- the gender of the card holder.
+
 amount- the amount of the transaction.
